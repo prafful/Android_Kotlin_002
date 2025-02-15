@@ -36,6 +36,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        //create button in second activity
+        //give it the constraint and label -> Home
+        //tapping home button must navigate user to Main activity
+
 
 
 

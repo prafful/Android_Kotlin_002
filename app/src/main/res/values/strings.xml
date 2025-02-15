@@ -3,4 +3,5 @@
     <string name="message">Welcome to Android</string>
     <string name="buttonLabel">Tap me once!</string>
     <string name="offers">All offers for the day are finished. Please visit again tomorrow.</string>
+    <string name="homeButton">Home</string>
 </resources>
